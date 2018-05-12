@@ -1,0 +1,30 @@
+_repo: Zahlentheorie_38986
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hensel, Kurt
+    alias: Hensel, K. (Kurt)
+    birthdate: 1861
+    deathdate: 1941
+    gutenberg_agent_id: '39757'
+    url: http://www.gutenberg.org/2009/agents/39757
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- Mathematics
+gutenberg_issued: '2012-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38986'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Number theory'
+- !lcc 'QA'
+title: Zahlentheorie
+url: http://www.gutenberg.org/ebooks/38986
